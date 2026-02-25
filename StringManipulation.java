@@ -1,4 +1,4 @@
-package ashir;
+package yasina;
 
 import java.util.Scanner;
 
