@@ -1,4 +1,4 @@
-package aashy;
+package yasina;
 
 import java.util.Scanner;
 class Area
