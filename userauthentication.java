@@ -1,4 +1,4 @@
-package aashyy;
+package yasina;
 
 
 import java.util.Scanner;
